@@ -87,7 +87,7 @@ p.description{
 .content{
 	position: absolute;
 	min-width: 100px;	
-	width: 20%;
+	/*width: 20%;*/
 	margin:0px;
 	bottom: 75px;
 	padding: 10px 10px;
